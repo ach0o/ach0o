@@ -1,9 +1,7 @@
 <h3 align='center'><b><samp>Changhyun An</samp></b></h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/💕-PYTHON-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/👍-NODE.JS-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/-DJANGO-darkgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-JS-yellow?style=flat-square"/>
   <br>
   <img src="https://img.shields.io/badge/✨-CLEAN CODE-lightgrey?style=flat-square"/>
   <img src="https://img.shields.io/badge/-VIM-purple?style=flat-square"/>
