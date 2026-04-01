@@ -7,10 +7,10 @@
   <text font-family="'Courier New',monospace" fill="#8b8ec5" font-weight="700" x="330" y="42" font-size="13">RABBIT</text>
 
   <!-- ASCII Bunny -->
-  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="64" y="82" font-size="15">,&gt;</text>
-  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="37" y="100" font-size="15">(\__/)</text>
-  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="28" y="118" font-size="15" xml:space="preserve">( &#10022;  &#10022; )</text>
-  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="28" y="136" font-size="15" xml:space="preserve">=( .. )=</text>
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="44" y="82" font-size="15">,&gt;</text>
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="36" y="100" font-size="15">(\__/)</text>
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="27" y="118" font-size="15" xml:space="preserve">( &#10022;  &#10022; )</text>
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="18" y="136" font-size="15" xml:space="preserve">=(  ..  )=</text>
   <text font-family="'Courier New',monospace" fill="#8b8ec5" x="28" y="154" font-size="15">(&quot;)__(&quot;)</text>
 
   <!-- Name -->
