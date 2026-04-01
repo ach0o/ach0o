@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="540" viewBox="0 0 420 540">
+  <rect fill="#0c1120" width="420" height="540" rx="10"/>
+  <rect fill="none" stroke="#3a3f6e" stroke-width="1.5" x="8" y="8" width="404" height="524" rx="8"/>
+
+  <!-- Header -->
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" font-weight="700" x="28" y="42" font-size="13">&#9733;&#9733;&#9733; RARE</text>
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" font-weight="700" x="330" y="42" font-size="13">RABBIT</text>
+
+  <!-- ASCII Bunny -->
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="44" y="82" font-size="15">,&gt;</text>
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="36" y="100" font-size="15">(\__/)</text>
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="27" y="118" font-size="15" xml:space="preserve">( &#10022;  &#10022; )</text>
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="18" y="136" font-size="15" xml:space="preserve">=(  ..  )=</text>
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="28" y="154" font-size="15">(&quot;)__(&quot;)</text>
+
+  <!-- Name -->
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" font-weight="700" x="28" y="190" font-size="14">Eavewhisker</text>
+
+  <!-- Description -->
+  <text font-family="'Courier New',monospace" fill="#5a5d8a" font-style="italic" x="28" y="218" font-size="10.5">"An insufferably patient rabbit</text>
+  <text font-family="'Courier New',monospace" fill="#5a5d8a" font-style="italic" x="28" y="233" font-size="10.5">who watches your buggy code with</text>
+  <text font-family="'Courier New',monospace" fill="#5a5d8a" font-style="italic" x="28" y="248" font-size="10.5">wide eyes and quiet sighs, only</text>
+  <text font-family="'Courier New',monospace" fill="#5a5d8a" font-style="italic" x="28" y="263" font-size="10.5">occasionally pointing out the</text>
+  <text font-family="'Courier New',monospace" fill="#5a5d8a" font-style="italic" x="28" y="278" font-size="10.5">obvious flaw you've overlooked</text>
+  <text font-family="'Courier New',monospace" fill="#5a5d8a" font-style="italic" x="28" y="293" font-size="10.5">three times, delivered with</text>
+  <text font-family="'Courier New',monospace" fill="#5a5d8a" font-style="italic" x="28" y="308" font-size="10.5">surgical snark that stings because</text>
+  <text font-family="'Courier New',monospace" fill="#5a5d8a" font-style="italic" x="28" y="323" font-size="10.5"> she's always right."</text>
+
+  <!-- Stats -->
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="28" y="356" font-size="11">DEBUGGING</text>
+  <rect fill="#1a1f35" x="138" y="346" width="200" height="12" rx="3"/>
+  <rect fill="#8b8ec5" x="138" y="346" width="62" height="12" rx="3"/>
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="350" y="356" font-size="11">31</text>
+
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="28" y="376" font-size="11">PATIENCE</text>
+  <rect fill="#1a1f35" x="138" y="366" width="200" height="12" rx="3"/>
+  <rect fill="#8b8ec5" x="138" y="366" width="188" height="12" rx="3"/>
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="350" y="376" font-size="11">94</text>
+
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="28" y="396" font-size="11">CHAOS</text>
+  <rect fill="#1a1f35" x="138" y="386" width="200" height="12" rx="3"/>
+  <rect fill="#8b8ec5" x="138" y="386" width="34" height="12" rx="3"/>
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="350" y="396" font-size="11">17</text>
+
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="28" y="416" font-size="11">WISDOM</text>
+  <rect fill="#1a1f35" x="138" y="406" width="200" height="12" rx="3"/>
+  <rect fill="#8b8ec5" x="138" y="406" width="64" height="12" rx="3"/>
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="350" y="416" font-size="11">32</text>
+
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="28" y="436" font-size="11">SNARK</text>
+  <rect fill="#1a1f35" x="138" y="426" width="200" height="12" rx="3"/>
+  <rect fill="#8b8ec5" x="138" y="426" width="128" height="12" rx="3"/>
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="350" y="436" font-size="11">64</text>
+
+  <!-- Last said -->
+  <text font-family="'Courier New',monospace" fill="#5a5d8a" x="28" y="466" font-size="10">last said</text>
+  <rect fill="none" stroke="#3a3f6e" stroke-width="1" x="28" y="474" width="364" height="54" rx="6"/>
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="38" y="492" font-size="10.5">*ears twitch, nose wiggles*</text>
+  <text font-family="'Courier New',monospace" fill="#8b8ec5" x="38" y="512" font-size="10.5">"Ah. A blank canvas. How... optimistically terrifying."</text>
+</svg>
